@@ -1,5 +1,7 @@
 [package]
 name = "tactics"
+description = "Temperature alignment of current target commitments"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
